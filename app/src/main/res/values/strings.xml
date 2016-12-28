@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ToothFairy</string>
+    <string name="my_url">http://172.20.112.241:5000/api/</string>
 </resources>
